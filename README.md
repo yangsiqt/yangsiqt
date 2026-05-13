@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm yangsiqt
 
-<!--
-**yangsiqt/yangsiqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **C++ & Python (PyTorch)**
 
-Here are some ideas to get you started:
+🔭 **LLM Inference:** vLLM, SGLang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **GPU/CUDA:** CUDA Graph, cuBLAS, CUTLASS, Nsight Compute
+
+🏗️ **Distributed:** NCCL, DP/TP/EP
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=yangsiqt&show_icons=true)
